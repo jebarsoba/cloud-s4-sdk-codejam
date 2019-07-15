@@ -25,3 +25,27 @@ Configuration and extension of the application will be done as part of the exerc
 ## License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
 This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](https://github.com/SAP/cloud-s4-sdk-codejam/blob/master/LICENSE).
+
+# My own notes during the CodeJam
+## Links
+1: Getting Started with SAP HANA, express edition and XS Advanced Applications
+https://codelabs.developers.google.com/codelabs/cloud-sap-xsa-launcher
+
+2: Setup Your S/4HANA Extensions Development Environment
+https://codelabs.developers.google.com/codelabs/cloud-sap-hana-s4sdk-dev
+
+3: Complete integration with the SAP S/4HANA system using the SAP S/4HANA Cloud SDK
+https://codelabs.developers.google.com/codelabs/cloud-sap-hana-s4sdk
+
+4: Set up Google Kubernetes Engine for a CI/CD Pipeline for S/4HANA SDKB
+https://codelabs.developers.google.com/codelabs/cloud-sap-hana-s4sdk-k8
+
+5: Add Machine Learning Functionality to Your S/4HANA SDK Application
+https://codelabs.developers.google.com/codelabs/cloud-sap-hana-s4sdk-ml
+
+## Misc info
+- SYSTEM to perform database administration tasks
+- XSA_DEV to log in to SAP Web IDE for SAP HANA as a developer
+- XSA_ADMIN to perform administration tasks in for Extended Application Services, advanced model (XS Advanced) platform
+- GCP VM external IP: 104.155.159.78
+- Jenkins password BAgBodOgxw
